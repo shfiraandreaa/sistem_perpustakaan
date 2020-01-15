@@ -1,0 +1,19 @@
+.notif{
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    background-color: #fce38a;
+    color: #f38181;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 170px;
+    padding-top: 5px;
+}
+#click{
+    width: 50px;
+    height: 30px;
+    border-radius: 3px;
+    background-color:#f38181;
+	border-color: white;
+	color: #eaffd0; 
+}

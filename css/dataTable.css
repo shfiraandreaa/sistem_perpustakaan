@@ -1,0 +1,37 @@
+th{
+	border-style: solid;
+	padding: 15px;
+}
+td{
+	border-style: solid;
+	padding: 5px;
+	padding-top: 10px;
+}
+table span{
+	color: #f6f6f6;
+}
+table{
+	border-collapse:collapse;
+	margin-top: 20px;
+}
+th a{
+	color: #ffb400;
+}
+.dynatable-search{
+	float: none !important;
+}
+.dynatable-pagination-links{
+	float: none !important;
+}
+.ket-approve{
+	color: #ffb400;
+}
+#btn-approve{
+	background-color: #ffb400;
+	color: #2d4059;
+	width: 80px;
+	height: 30px;
+	border-radius: 3px;
+	border-color:  #ffb400;
+	
+}

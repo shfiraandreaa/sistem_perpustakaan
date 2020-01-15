@@ -1,0 +1,113 @@
+/*div{
+	border-style: solid;
+}*/
+body{
+	background-color: #f6f6f6;
+}
+.all-menu{
+	float:left;
+	width: 15%;
+	/*height: 150px;*/
+	background-color:#2d4059;
+	position:relative;
+	cursor:pointer;
+	color: #ffb400;
+}
+.menu-admin{
+	height: 780px;
+}
+.isi-admin{
+	height: 603px;
+	background-color: #2d4059;
+}
+.menu-manager{
+	height: 728px;
+}
+.isi-manager{
+	height: 550px;
+	background-color: #2d4059;
+}
+.menu-general{
+	height: 630px;
+}
+.isi-general{
+	height: 407px;
+	background-color: #f6f6f6;
+}
+.all-logo{
+	width: 84%;
+    height: 162px;
+    float: left;
+	margin-left: 5px;
+    background-color: #2d4059;;
+    cursor: pointer;
+	color: #ffb400;
+}
+#logo-perpus{
+	width: 198px;
+	height: 128px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-bottom-style: solid;
+	border-bottom-color: #f6f6f6;
+}
+.logo{
+	width: 92px;
+	height: 83px;
+}
+.bawah{
+    margin-top: 11px;
+	text-align: center;
+}
+
+.logout{
+	width: 70px;
+	height: 20px;
+	float: right;
+    margin-top: -135px;
+}
+.logout img{
+	width: 40px;
+	height: 40px;
+}
+.controll-menu{
+	width: 198px;
+	height: 59px;
+	cursor:pointer;
+	text-align:center;
+	border-bottom-style: solid;
+	border-bottom-color: #f6f6f6;
+}
+.controll-menu:hover{
+	background-color:#f6f6f6;
+	background-size:cover;
+	cursor:pointer;
+}
+.sub-menu{
+	width: 98%;
+	height: 900px;
+	display: none;
+}
+a{
+	color: #ffb400;
+}
+.item{
+	display: inline-block;
+    width: 190px;
+	height: 77px;
+	border-bottom-style: solid;
+	border-bottom-color: #f6f6f6;
+}
+.item:hover{
+	background-color:#ea5455;
+	background-size:cover;
+	cursor:pointer;
+	text-align:center;
+}
+.kontainer{
+	width: 1120px;
+    float: left;
+    margin-top: 5px;
+	margin-left: 5px;
+	padding-top: 10px;
+}
